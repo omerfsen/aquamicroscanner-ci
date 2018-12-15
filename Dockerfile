@@ -1,4 +1,5 @@
 # Test centos 7.1
+# Another test
 FROM centos:7.1.1503
 
 RUN mkdir /var/tmp/bogusdir
